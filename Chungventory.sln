@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chungventory", "Chungventory\Chungventory.csproj", "{AD433E7C-0F0E-4B8D-BCC9-E71B7FA8CD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD433E7C-0F0E-4B8D-BCC9-E71B7FA8CD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD433E7C-0F0E-4B8D-BCC9-E71B7FA8CD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD433E7C-0F0E-4B8D-BCC9-E71B7FA8CD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD433E7C-0F0E-4B8D-BCC9-E71B7FA8CD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F6E06E6-6947-45B1-AD4D-74FE8E589687}
+	EndGlobalSection
+EndGlobal
