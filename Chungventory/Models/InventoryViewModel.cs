@@ -11,9 +11,11 @@ namespace Chungventory.Models
         public int Id { get; set; }
         [Required]
         public string Name { get; set; }
+        [Required]
         public int Quantity { get; set; }
-        public decimal price { get; set; }
+        public decimal Price { get; set; }
         public string Description { get; set; }
+        [Required]
         public string Location { get; set; }
         public string ItemPictureFileName { get; set; }
     }
